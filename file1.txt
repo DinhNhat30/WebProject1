@@ -1,3 +1,4 @@
 noi dung file thu nhat
-chinh sua
 maytinh 1
+ sua
+sua r
