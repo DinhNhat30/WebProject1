@@ -1,6 +1,5 @@
 noi dung file thu nhat
 maytinh 1
- sua
-sua r
+sua lan 2
 nội dung ngày học git gui
 nnnn
