@@ -2,3 +2,5 @@ noi dung file thu nhat
 maytinh 1
  sua
 sua r
+nội dung ngày học git gui
+nnnn
